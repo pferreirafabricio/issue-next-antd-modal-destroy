@@ -1,5 +1,5 @@
-# 🧪
-This repository is for the reproduction of the following issue: 
+# 🧪 Modal.destroyAll() not working with Nextjs version 13.4.13
+This repository is for the reproduction of the following issue: https://github.com/ant-design/ant-design/issues/44160
 
 Run it in CodeSandbox: https://codesandbox.io/p/github/pferreirafabricio/issue-next-antd-modal-destroy/main
 
